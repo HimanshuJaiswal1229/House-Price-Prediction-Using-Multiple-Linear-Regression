@@ -1,0 +1,2 @@
+# House-Price-Prediction-Using-Multiple-Linear-Regression
+This project demonstrates how to build a multiple linear regression model to predict house prices using features such as square footage, number of bedrooms, and number of bathrooms. The goal is to provide a straightforward, interpretable model that estimates house prices based on key property characteristics—ideal for educational purposes, portfolio showcasing, or as a foundation for improvements
